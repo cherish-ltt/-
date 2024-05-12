@@ -1,7 +1,23 @@
 {
-    "version":"1.0.3",
-    "pub_date":"2024-5-12T21:42:03+01:00",
-    "url":"https://gitee.com/crazy_man_binbin/bubble-toolbox-online-release/blob/master/update/setup.zip",
-    "signature":"",
-    "notes":"1.0.3现已发布，请完成自动更新"
+  "version": "v1.0.3",
+  "notes": "Test version",
+  "pub_date": "2024-06-22T19:25:57Z",
+  "platforms": {
+    "darwin-x86_64": {
+      "signature": "Content of app.tar.gz.sig",
+      "url": "https://gitee.com/crazy_man_binbin/bubble-toolbox-online-release/blob/master/update/setup.zip"
+    },
+    "darwin-aarch64": {
+      "signature": "Content of app.tar.gz.sig",
+      "url": "https://gitee.com/crazy_man_binbin/bubble-toolbox-online-release/blob/master/update/setup.zip"
+    },
+    "linux-x86_64": {
+      "signature": "Content of app.AppImage.tar.gz.sig",
+      "url": "https://gitee.com/crazy_man_binbin/bubble-toolbox-online-release/blob/master/update/setup.zip"
+    },
+    "windows-x86_64": {
+      "signature": "Content of app.msi.sig",
+      "url": "https://gitee.com/crazy_man_binbin/bubble-toolbox-online-release/blob/master/update/setup.zip"
+    }
+  }
 }
